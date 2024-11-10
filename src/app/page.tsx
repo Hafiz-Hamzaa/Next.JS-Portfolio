@@ -87,7 +87,7 @@ export default function Portfolio(){
      {/* about section */}
         <div>  
         <h1 className="text-white text-6xl font-bold  mt-8 text-center max-md:text-[50px]">About Me</h1>
-        <p className="text-white text-2xl text-center mt-8 max-md:text-[20px]">I'm Hafiz Hamza and I am a student of Second Year at my D.J College and <br /> Now I am also a student of GIAIC In this Journey I am learning different tencnologies like Programming , designing , development etc. <br />I have gain my confidence and inshallah I acheived my goals in my future .</p>
+        <p className="text-white text-2xl text-center mt-8 max-md:text-[20px]">I am Hafiz Hamza and I am a student of Second Year at my D.J College and <br /> Now I am also a student of GIAIC In this Journey I am learning different tencnologies like Programming , designing , development etc. <br />I have gain my confidence and inshallah I acheived my goals in my future .</p>
         <div>
         <Image className="max-md:h-[250px] max-md:w-[250px] m-auto rounded-full mt-20 shadow-[0px_0px_15px_6px] shadow-white  border-black" src={profile} alt="profile" height={300}/>
         </div>
